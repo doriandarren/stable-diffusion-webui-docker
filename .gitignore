@@ -4,5 +4,3 @@
 # VSCode specific
 *.code-workspace
 /.vscode
-
-.DS_Store
